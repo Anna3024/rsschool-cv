@@ -29,7 +29,7 @@ console.log(divCon([9, 3, '7', '3'])); //2
 * Exam project for the course "Web application development with JavaScript" at the IT-Academy - [table game "MATCH"](https://anna3024.github.io/);
 
 #### Education:
-* University education: graduated from the BNTUy in 2012 with a degree in Civil Engineering;
+* University education: graduated from the BNTU in 2012 with a degree in Civil Engineering;
 * Successfully completed the course "Web application development with HTML and CSS" at the IT-Academy;
 * Successfully completed the course "Web application development with JavaScript" at the IT-Academy;
 * Online training in the Rolling Scopes School;
